@@ -1,7 +1,7 @@
 # Telecom-Churn-Prediction
-Business Problem Overview
+![0_8Iu_eymr6eR-YuQw](https://github.com/Somya2115/telecom-churn-prediction/assets/131175087/092582a8-1cf5-4ad9-b189-70fa2f55e924)
 
-![1_3xEPKteLmsRwSUK6bfbpFQ](https://github.com/Somya2115/telecom-churn-prediction/assets/131175087/b4422a9a-1cd6-47fd-9f6b-48ff92d6577e)
+Business Problem Overview
 
 In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate.
 Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
